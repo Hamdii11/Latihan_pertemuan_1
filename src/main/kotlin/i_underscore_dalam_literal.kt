@@ -1,6 +1,7 @@
+//Selain memiliki literal konstan Kotlin juga dapat menggunakan underscore dalam literal, untuk
+//memberikan kemudahan pada pengembang dalam membaca dan menulis kode program.
+
 fun main() {
-    //Selain memiliki literal konstan Kotlin juga dapat menggunakan underscore dalam literal, untuk
-    //memberikan kemudahan pada pengembang dalam membaca dan menulis kode program
     val oneMillion = 1_000_000
     val creditCardNumber = 1234_5678_9012_3456L
     val socialSecurityNumber = 999_99_9999L
