@@ -1,7 +1,7 @@
-fun main() {
-    //Untuk literal number penunjukan nilai (boxing) pada sebuah variabel tidak akan berpengaruh
-    //pada identitas suatu variabel. Perhatikan kode program berikut:
+//    //Untuk literal number penunjukan nilai (boxing) pada sebuah variabel tidak akan berpengaruh
+//    //pada identitas suatu variabel. Perhatikan kode program berikut:
 
+fun main() {
     val a: Int = 10000
     println("a apakah identik dengan a atau a === a: " + (a === a))
     val boxedA: Int? = a
