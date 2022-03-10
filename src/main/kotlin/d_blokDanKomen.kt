@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     println("Hello, Ini Program Pertama Saya di Kotlin!")
     //Contoh komentar satu baris
     /*
