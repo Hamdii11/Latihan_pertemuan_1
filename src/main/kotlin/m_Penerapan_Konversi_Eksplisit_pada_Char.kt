@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
     //ASCII value
     var c: Char // character
     var i: Int // ordinal (ASCII) value of the character
